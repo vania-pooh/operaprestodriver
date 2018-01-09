@@ -735,6 +735,11 @@ public class OperaDriver extends RemoteWebDriver implements TakesScreenshot, Run
       return OperaDriver.this;
     }
 
+    @Override
+    public WebDriver parentFrame() {
+      return OperaDriver.this;
+    }
+
     /*
      * This and more functionality will be provided natively in near future, in progress.
      */
