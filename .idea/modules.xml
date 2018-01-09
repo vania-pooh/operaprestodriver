@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Webdriver-opera.iml" filepath="$PROJECT_DIR$/Webdriver-opera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadriver.iml" filepath="$PROJECT_DIR$/operadriver.iml" />
     </modules>
   </component>
 </project>
-

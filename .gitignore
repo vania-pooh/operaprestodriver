@@ -2,12 +2,8 @@
 *.pyc
 .*.swp
 .DS_Store
-.idea/codeStyleSettings.xml
-.idea/dictionaries/
-.idea/misc.xml
-.idea/runConfigurations/GenericTest.xml
-.idea/scopes/scope_settings.xml
-.idea/workspace.xml
+*.iml
+.idea
 .tags
 GPATH
 GRTAGS
@@ -25,3 +21,4 @@ test-output/
 test-reports/
 test/com/opera/core/systems/GenericTest.java
 test_apc.txt
+target
